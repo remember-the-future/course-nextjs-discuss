@@ -1,10 +1,11 @@
 ## Define .env.local file
-
+```
 https://github.com/settings/applications/new
 https://github.com/settings/developers
 GITHUB_CLIENT_ID="Ov23lirFsrsx4u1apwrR" // old
 GITHUB_CLIENT_SECRET="0ab0b606814870c032fe64c554c88c4be07cc5c2" // old
 AUTH_SECRET="kjhqskjdlhgiydhboaerohgjùpsokgpisopdug" // any random
+```
 
 ## Getting Started
 
